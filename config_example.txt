@@ -1,0 +1,4 @@
+{
+    "vk token": "<insert vk token value here>",
+    "yandex disk token": "<insert yandex disk token value here>"
+}
